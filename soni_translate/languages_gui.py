@@ -28,7 +28,7 @@ language_data = {
         "description": """
         ### 🎥 **Translate videos easily with Showtime Translate!** 📽️
 
-        Upload a video, subtitle, audio file or provide a URL video link. 📽️ **Gets the updated notebook from the official repository.: [showtime_translate](https://github.com/R3gm/SoniTranslate)!**
+        Upload a video, subtitle, audio file or provide a URL video link. 📽️ **Gets the updated notebook from the official repository.: [showtime_translate](https://github.com/aaaddditya/showtime_translate)!**
 
         See the tab `Help` for instructions on how to use it. Let's start having fun with video translation! 🚀🎉
         """,
@@ -45,7 +45,7 @@ language_data = {
 
         ---
 
-        # 🧩 **SHowtime Translate supports different TTS (Text-to-Speech) engines, which are:**
+        # 🧩 **Showtime Translate supports different TTS (Text-to-Speech) engines, which are:**
         - EDGE-TTS → format `en-AU-WilliamNeural-Male` → Fast and accurate.
         - FACEBOOK MMS → format `en-facebook-mms VITS` → The voice is more natural; at the moment, it only uses CPU.
         - PIPER TTS → format `en_US-lessac-high VITS-onnx` → Same as the previous one, but it is optimized for both CPU and GPU.
